@@ -1,0 +1,19 @@
+{
+  "name": "fail2ban-node",
+  "version": "1.0.0",
+  "description": "A maintained Node.js client for fail2ban, wrapping fail2ban-client CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": ["fail2ban", "security", "firewall", "linux", "ban"],
+  "author": "qfdk",
+  "license": "GPL-2.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qfdk/fail2ban-node.git"
+  }
+}
