@@ -70,3 +70,9 @@ await fail2ban.unbanAll();
 ## License
 
 GPL-2.0 — same as fail2ban itself.
+
+## Sponsor
+
+<a href="https://voilapro.app/?ref=github-fail2ban-node"><img src="https://voilapro.app/images/icon.png" alt="Voilà Pro" width="160"/></a>
+
+This project is sponsored by [Voilà Pro](https://voilapro.app/?ref=github-fail2ban-node) — voice typing for macOS. Hold a key, speak, and the text lands at your cursor, in any mix of languages.
