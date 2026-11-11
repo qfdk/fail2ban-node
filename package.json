@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A maintained Node.js client for fail2ban, wrapping fail2ban-client CLI",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "scripts": {
     "test": "node --test test/*.test.js"
   },
